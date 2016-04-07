@@ -2,6 +2,6 @@
         
 [Skizophrenic]
 Name = League Mastery Tool 1.3
-URL = http://www.myeditor.com/download/myeditor.msi
+URL = https://github.com/Mr-Skizo/League-Mastery-Tool-by-Mr-Skizo/blob/master/setup.exe?raw=true
 Size = 2545152
 FilePath = C:\Program Files (x86)\Skizophrenic\LeagueMasteryTool\League Mastery Tool by Mr-Skizo.exe
