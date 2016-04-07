@@ -1,7 +1,0 @@
-;aiu;
-
-[MyEditor45]
-Name = League Mastery Tool 1.3
-URL = https://github.com/Mr-Skizo/League-Mastery-Tool-by-Mr-Skizo/blob/master/setup.exe?raw=true
-FilePath = %ProgramFiles%\Skizophrenic\LeagueMasteryTool\League Mastery Tool by Mr-Skizo.exe
-Version = 1.3
